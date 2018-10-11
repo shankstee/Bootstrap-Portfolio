@@ -40,51 +40,50 @@ body {
  }
 
  #port1 {
-     background: url("../images/voice-changer-with-effects.png");
+     background: url("../../portfolioPics/Stockio.JPG");
      background-repeat: no-repeat;
      background-position: center;
-     background-size: 200px 200px;
+     background-size: 350px 200px;
      height: 200px;
      margin-bottom: 10px; 
      margin-top: 10px;
-     float: none;
      
 
  }
 
  #port2 {
-    background: url("../images/live.jpg");
+    background: url("../../portfolioPics/GifFinder.JPG");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 200px 200px;
+    background-size: 350px 200px;
     margin-bottom: 10px ;
     margin-top: 10px;   
     
  }
 
  #port3 {
-    background: url("../images/love.png");
+    background: url("../../portfolioPics/hangman.JPG");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 200px 200px;
+    background-size: 350px 200px;
     height: 200px;
     margin-bottom: 10px ;
  }
 
  #port4 {
-    background: url("../images/musicc.png");
+    background: url("../../portfolioPics/TriviaGame.JPG");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 200px 200px;
+    background-size: 350px 200px;
     margin-bottom: 10px ;
     
  }
 
  #port5 {
-    background: url("../images/Quiz.png");
+    background: url("../../portfolioPics/TWDBattle.JPG");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 200px 200px;
+    background-size: 350px 200px;
     height: 200px;
     margin-bottom: 10px ;
     
