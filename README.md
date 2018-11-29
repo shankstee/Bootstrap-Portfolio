@@ -1,2 +1,3 @@
 # Bootstrap-Portfolio
-Bootstrap Port
+
+Link to Bootstrap Portfolio update: https://shankstee.github.io/Bootstrap-Portfolio/
